@@ -31,11 +31,20 @@ To analyze business performance of Shield Insurance by providing insights into:
 
 -> Sales mode efficiency
 
+## 🏠 Home Page
+
+The Home Page acts as a navigation hub for the dashboard, providing a brief business overview and easy access to all analysis pages using interactive buttons and icons.
+![Home](https://raw.githubusercontent.com/Savita-insights/shield-insurance-powerbi-analysis/main/Screenshots/Home.png)
+
+
 ## 1️⃣ Overview Analysis
 
 - Total Revenue & Total Customers
 - Monthly Revenue & Customer Trends
 - City-wise and demographic performance
+- 
+https://github.com/Savita-insights/shield-insurance-powerbi-analysis/blob/main/Screenshots/Overview%20Analysis
+
 
 ## 2️⃣ Sales Mode Analysis
 
@@ -43,11 +52,15 @@ To analyze business performance of Shield Insurance by providing insights into:
 - Offline vs Online performance
 - Policy-level and trend analysis
 
+https://github.com/Savita-insights/shield-insurance-powerbi-analysis/blob/main/Screenshots/Sales%20Mode%20Analysis
+
 ## 3️⃣ Age Group Analysis
 
 - Customer distribution by age group
 - Policy preference & revenue contribution
 - Expected settlement insights
+
+https://github.com/Savita-insights/shield-insurance-powerbi-analysis/blob/main/Screenshots/Age%20Group%20Analysis
 
 ## 🛠 Tools & Skills Used
 
